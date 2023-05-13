@@ -1,7 +1,7 @@
 # BacktestTrading
 Backtesting a  simple trading strategy
 
-I use data downloaded from Yahoo Finance to test the success date of a 200 SMA + RSI trading strategy.
+I use data downloaded from Yahoo Finance to test the success rate of a 200 SMA + RSI trading strategy.
 
 The requirements to BUY in this strategy are as follows:
 1. Overall trend must be up (i.e. price is above the 200 SMA)
